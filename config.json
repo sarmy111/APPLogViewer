@@ -1,0 +1,19 @@
+{
+  "last_app_id": {
+    "ios": "com.pi.czrxdfirstly",
+    "android": ""
+  },
+  "last_package_path": {
+    "ios": "",
+    "android": ""
+  },
+  "process_by_platform_app": {
+    "ios": {
+      "com.pi.czrxdfirstly": "czrxd"
+    },
+    "android": {}
+  },
+  "filter_keyword_history": [
+    "unity"
+  ]
+}

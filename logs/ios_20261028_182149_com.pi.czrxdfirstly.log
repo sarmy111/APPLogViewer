@@ -1,0 +1,17 @@
+Oct 28 18:21:53.960736 czrxd(CoreMotion)[60426] <Debug>: Ping timer fired, resetting watchdog
+Oct 28 18:21:53.961241 czrxd(SystemConfiguration)[60426] <Debug>: [0x127090b40] __SCNetworkReachabilityGetFlagsFromPath(GetFlags), flags = 0x00000003, nw_path_status_satisfied, VPN
+Oct 28 18:21:53.961570 czrxd(libxpc.dylib)[60426] <Notice>: [0x11c8b7e80] Re-initialization successful; calling out to event handler with XPC_ERROR_CONNECTION_INTERRUPTED
+Oct 28 18:21:53.962628 czrxd(CoreTelephony)[60426] <Notice>: Connection interrupted. Attempting to reestablish connection
+Oct 28 18:21:53.962824 czrxd(Network)[60426] <Debug>: nw_endpoint_handler_path_change [C33.1.1.1 IPv4#577ea8ae:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns, uses wifi)]
+Oct 28 18:21:53.962911 czrxd(Network)[60426] <Debug>: nw_endpoint_flow_connected_path_change [C33.1.1.1 IPv4#577ea8ae:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns, uses wifi)]
+Oct 28 18:21:53.962984 czrxd(Network)[60426] <Info>: nw_endpoint_flow_connected_path_change [C33.1.1.1 IPv4#577ea8ae:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns, uses wifi)] Connected path is satisfied, viable
+Oct 28 18:21:53.963055 czrxd(Network)[60426] <Debug>: -[NWConcrete_nw_endpoint_flow updatePathWithHandler:] [C33.1.1.1 IPv4#577ea8ae:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns, uses wifi)]
+Oct 28 18:21:53.963130 czrxd(libusrtcp.dylib)[60426] <Info>: nw_proto_tcp_notify_segmentation_offload [C33.1.1.1:3] notifying segmentation offload value 0
+Oct 28 18:21:53.963215 czrxd(Network)[60426] <Info>: nw_protocol_ipv4_notify [C33.1.1.1:4] 0x156db60e0 segmentation offload notify enable 0
+Oct 28 18:21:53.963455 czrxd(CoreTelephony)[60426] <Info>: Found 3 implemented methods in 26 delegates
+Oct 28 18:21:53.964892 czrxd(libxpc.dylib)[60426] <Notice>: [0x101916200] Re-initialization successful; calling out to event handler with XPC_ERROR_CONNECTION_INTERRUPTED
+Oct 28 18:21:53.965085 czrxd(ManagedConfiguration)[60426] <Debug>: Received settings changed notification
+Oct 28 18:21:53.965264 czrxd(ManagedConfiguration)[60426] <Debug>: Invalidating cache
+Oct 28 18:21:53.965404 czrxd(CoreTelephony)[60426] <Notice>: Sending selectors to server: <private>
+Oct 28 18:21:53.965668 czrxd(libusrtcp.dylib)[60426] <Info>: nw_protocol_tcp_updated_path [C33.1.1.1:3] traffic_mgmt_background current 0 new 1
+Oct 28 18:21:53.972403 czrxd(libusrtcp.dylib)[60426] <Info>: nw_protocol_tcp_updated_path [C33.1.1.1:3] flow is defunct
